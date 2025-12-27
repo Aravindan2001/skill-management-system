@@ -36,7 +36,7 @@
 
 | 1. Create Personnel | 2. List Personnel | 3. Update Personnel |
 |---|---|---|
-| ![Screenshot5](screenshots/Screenshot5.png) | ![Screenshot4](screenshots/Screenshot4.png) | ![Screenshot3](screenshots/Screenshot3.png) |
+| ![Screenshot2](screenshots/Screenshot2.png) | ![Screenshot3](screenshots/Screenshot3.png) | ![Screenshot4](screenshots/Screenshot4.png) |
 
 | 4. Assign Skills | 5. Smart Matching (97% 🎯) |
 |---|---|
