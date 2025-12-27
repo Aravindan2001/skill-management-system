@@ -36,11 +36,11 @@
 
 | 1. Create Personnel | 2. List Personnel | 3. Update Personnel |
 |---|---|---|
-| !Screenshot1 | !Screenshot2 | !Screenshot3 |
+| Screenshot1 | Screenshot2 | Screenshot3 |
 
 | 4. Assign Skills | 5. Smart Matching (97% 🎯) |
 |---|---|
-| !Screenshot4 | !Screenshot5 |
+| Screenshot4 | Screenshot5 |
 
 ## 🛠 Tech Stack
 
