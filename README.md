@@ -53,11 +53,11 @@ text
 ## 🗄 Database Schema
 
 CREATE TABLE personnel (
-id INT PRIMARY KEY AUTO_INCREMENT,
-name VARCHAR(255),
-email VARCHAR(255),
-role VARCHAR(100),
-experience_level ENUM('Junior','Mid-Level','Senior','Lead')
+  id INT PRIMARY KEY AUTO_INCREMENT,
+  name VARCHAR(255),
+  email VARCHAR(255),
+  role VARCHAR(100),
+  experience_level ENUM('Junior','Mid-Level','Senior','Lead')
 );
 
 CREATE TABLE skills (
