@@ -40,7 +40,7 @@
 
 | 4. Assign Skills | 5. Smart Matching (97% 🎯) |
 |---|---|
-| ![Screenshot2](screenshots/Screenshot2.png) | ![Screenshot1](screenshots/Screenshot1.png) |
+| ![Screenshot5](screenshots/Screenshot5.png) | ![Screenshot1](screenshots/Screenshot1.png) |
 
 
 ## 🛠 Tech Stack
